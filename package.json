@@ -1,0 +1,24 @@
+{
+  "name": "pagina-vue",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^5.1.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "stephani19": "^0.0.15",
+    "veaury": "^2.6.3",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.6.2",
+    "@vitejs/plugin-vue-jsx": "^3.1.0",
+    "vite": "^4.4.5"
+  }
+}
